@@ -1,0 +1,2 @@
+INSERT INTO products (id, name, model, description, price, active, gender, type, brand)
+VALUES ('c2e1298f-9c05-4991-b78b-d60e9b18c1cb', 'n1', 'm1', 'description', 100, true, 'HOMBRE', 'ACCESORIO', 'nike');
